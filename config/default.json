@@ -1,3 +1,4 @@
 {
-  "mongo_uri": "mongodb+srv://lavishgoyal:lavishgoyal@eceblog.pgn6t.mongodb.net/merntutorial?retryWrites=true&w=majority"
+  "mongo_uri": "mongodb+srv://lavishgoyal:lavishgoyal@eceblog.pgn6t.mongodb.net/merntutorial?retryWrites=true&w=majority",
+  "jwt_secret": "mysecrettokenwhichisunique"
 }
